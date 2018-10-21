@@ -1,10 +1,8 @@
 # IntelliJ IDEA(IDE相关的设置) .idea文件夹是否需要整个文件都要忽略，待核实
 # .idea
+.idea/
 /local.properties
-/.idea/workspace.xml
-.idea/gradle.xml
 
-/.idea/libraries
 
 
 
